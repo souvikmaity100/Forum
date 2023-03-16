@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>iDiscuss - Forum Guidelines</title>
+    <title>Forum Foster - Forum Guidelines</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <style>
@@ -23,12 +23,12 @@
         <div class="row">
             <div class="col-4">
                 <div class="card mb-3">
-                    <img src="images/discuss.jpg" class="card-img-top" alt="iDiscuss">
+                    <img src="images/discuss.jpg" class="card-img-top" alt="Forum Foster">
                     <div class="card-body">
-                        <p class="card-text">These forums are available to help you solve problems with iDiscuss as well
-                            as any themes or plugins hosted on the iDiscuss Directories. We offer these forums for free
-                            for all users of iDiscuss, in the hopes that they can join us in improving the quality of
-                            iDiscuss as a project as well as software.</p>
+                        <p class="card-text">These forums are available to help you solve problems with Forum Foster as well
+                            as any themes or plugins hosted on the Forum Foster Directories. We offer these forums for free
+                            for all users of Forum Foster, in the hopes that they can join us in improving the quality of
+                            Forum Foster as a project as well as software.</p>
                     </div>
                 </div>
 
@@ -48,7 +48,7 @@
                         <h5>Do not spam</h5>
                         <p>The forums are here for providing users with a venue to get help with problems. In light of
                             this, please refrain from using signatures, new topics, or responses to existing topics as a
-                            venue to promote your own plugins, themes or services. Your iDiscuss.org profile provides
+                            venue to promote your own plugins, themes or services. Your Forum Foster.org profile provides
                             you the means to add a link to your own site if you so desire.</p>
                     </div>
                     <div>
@@ -75,7 +75,7 @@
                         <p>Don’t offer to work for hire in replies on these forums. Help on the forums should be given
                             freely, as in beer.</p>
 
-                        <p>We believe that people should be able to make a living based on iDiscuss, but the support
+                        <p>We believe that people should be able to make a living based on Forum Foster, but the support
                             forums are not the appropriate place for that.
                         </p>
                     </div>
@@ -83,9 +83,9 @@
                         <h5>Do Not Post About Commercial Products</h5>
                         <p>For support of commercial themes or plugins, go to the official support channel.</p>
 
-                        <p>In order to be good stewards of the iDiscuss community, and encourage innovation and
+                        <p>In order to be good stewards of the Forum Foster community, and encourage innovation and
                             progress, we feel it’s important to direct people to those official locations. Doing this
-                            will provide the developer with the income they need to make iDiscuss awesome.</p>
+                            will provide the developer with the income they need to make Forum Foster awesome.</p>
 
                         <p>Forum volunteers are also not given access to commercial products, so they would not know why
                             a commercial theme or plugin is not working properly.</p>
@@ -110,7 +110,7 @@
                         <h5>Do Not Create Multiple Accounts (Sockpuppets)</h5>
                         <p>Do not create multiple accounts, aka sockpuppets. Sockpuppetry is often used for nefarious reasons, and as such we ask that you simply don’t do it. If a sockpuppet account is identified, it will be banned immediately.</p>
 
-                        <p><b>If you are plugin or theme developer only</b>, having separate personal and “business” accounts is acceptable for uploading code to the iDiscuss repo or for a very limited capacity of support of that plugin or theme. In that limited capacity that may not be consider to be sockpuppetry.
+                        <p><b>If you are plugin or theme developer only</b>, having separate personal and “business” accounts is acceptable for uploading code to the Forum Foster repo or for a very limited capacity of support of that plugin or theme. In that limited capacity that may not be consider to be sockpuppetry.
                         </p>
                     </div>
                     <div>
@@ -125,7 +125,7 @@
                             <li>Do not post another person’s private information (job, gender, living situation, location, etc).</li>
                             <li>Do not ask for any kind of access in order to provide support, not even for plugins or themes.</li>
                             <li>Do not harass or abuse people.</li>
-                            <li>Do not contact people outside of iDiscuss.org for support or to respond to a post/review. This includes using contact forms on their websites, phone numbers, social media, or any other contact method.</li>
+                            <li>Do not contact people outside of Forum Foster.org for support or to respond to a post/review. This includes using contact forms on their websites, phone numbers, social media, or any other contact method.</li>
                             <li>Do not abuse the ‘Report this topic’ or ‘modlook’ system.</li>
                             <li>Do not post spam and affiliate links, offensive posts, posts without content, or flames.</li>
                             <li>Do not recommend specific webhosts, nor post links to webhost recommendation sites.</li>
